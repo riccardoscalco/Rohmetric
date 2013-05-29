@@ -125,12 +125,12 @@ a:hover{
 aside{
     width:600px;
     float:left;
-    text-align:left;
+    //text-align:left;
 }
 section{
     width:700px;
     float:left;
-    text-align:left;
+    //text-align:left;
     padding-left:30px;
 }
 
