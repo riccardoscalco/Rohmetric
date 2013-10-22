@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>Rohmetric</title>
+<meta name="author" content="Riccardo Scalco">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="Bioinformatics, Rohlin distance, Virus Evolution, Influenza
+Virus, H3N2, H1N1, Bud Analysis">
+<base href="./">
+<!--<meta name="description" content="">
+<link rel="alternate" href="/atom.xml" type="application/atom+xml" title="Bud Analysis">-->
+<link rel="icon" href="./favi.ico">
+<link rel="stylesheet" type="text/css" href="./bootstrap.css">
+<link rel="stylesheet" type="text/css" href="./style.css">
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>-->
+<!--[if lt IE 9]>
+  <script type="text/javascript" src="./js/excanvas.js"></script>
+<![endif]-->
+
+<!--[if !IE 7]>
+	<style type="text/css">
+		#wrap {display:table;height:100%}
+	</style>
+<![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-28849332-4', 'riccardoscalco.github.io');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body id="top">
+  <div id="wrap">
+    <header>
+      <div class="containerheader">
+          <img src="logo1.png" alt="Rohmetric" width="240px">
+          <nav class="main-nav">
+          <ul>
+              <li><a href="">Home</a></li>
+              <li><a href="faq.html">FAQ</a></li>
+              <li><a href="code.html">Code</a></li>
+          </ul>
+          </nav>
+      </div>
+      <div class="quote">
+       <q>Investigate Influenza virus with entropic metric measures</q>
+      </div>
+    </header>
+        <div class="containermain">    
+        
+  
+  <article>
+  <a href="./VpjGsVtEE.html">
+      <h1>Evolution of the hemagglutinin segment of H1N1 Influenza Virus.
+</h1>
+      <time>22 Oct 2013</time>
+      <p>
+      Cluster 28 is the most populated, there are no statistically relevant signals of new emerging strains.
+
+      </p>
+  </a></article>
+  
+
+  
+  <article>
+  <a href="./Rx0e3wW1I.html">
+      <h1>Evolution of the hemagglutinin segment of H3N2 Influenza Virus.
+</h1>
+      <time>22 Oct 2013</time>
+      <p>
+      The new strains emerged on the winter season 2012/13 are present also at the beginning of winter season 2013/14.
+Clusters 34 and 43 could be new emerging strains.
+
+      </p>
+  </a></article>
+  
+
+  
+  <article>
+  <a href="./xAy7QvBm9.html">
+      <h1>Evolution of the hemagglutinin segment of H3N2 Influenza Virus.
+</h1>
+      <time>14 Jul 2013</time>
+      <p>
+      The three new strains emerged on the winter season 2012/13, noticed on the
+last H3N2 analysis, are well populated. No new strain is emerging. 
+
+      </p>
+  </a></article>
+  
+
+  
+  <article>
+  <a href="./UJ7FFqRBd.html">
+      <h1>Evolution of the hemagglutinin segment of H1N1 Influenza Virus.
+</h1>
+      <time>14 Jul 2013</time>
+      <p>
+      Among the emerging strains, two of them are the most populated, clusters 30 and 31 (23 and 24 in the previous analysis). 
+
+      </p>
+  </a></article>
+  
+
+  
+  <article>
+  <a href="./n1G7Rgtgi.html">
+      <h1>Evolution of the hemagglutinin segment of H1N1 Influenza Virus.
+</h1>
+      <time>20 May 2013</time>
+      <p>
+      According to the analysis, new strains emerged on the winter season 2012/13.
+
+      </p>
+  </a></article>
+  
+
+  
+  <article>
+  <a href="./5oIAE5KXm.html">
+      <h1>Evolution of the hemagglutinin segment of H3N2 Influenza Virus.
+</h1>
+      <time>19 May 2013</time>
+      <p>
+      According to the analysis, new strains emerged on the winter season 2012/13 the
+precursors of which go back to January 2012.
+
+      </p>
+  </a></article>
+  
+
+
+
+
+    </div>
+
+
+  </div>
+  <footer>
+    <div class="containerfooter">
+    <!--    
+    <img src="unipr.png" alt="University of Parma" width="90" height="90">
+    <p style="padding-top:10px;">
+    <b>UNIVERSITY OF PARMA</b><br>
+    Physics Department<br>
+    Parco Area delle Scienze<br>
+    Viale G.P. Usberti n.7/A<br>
+    43124 - Parma - Italia<br>
+    </p>
+    <p style="padding-top:10px; width:600px">
+        
+    </p>
+    </div>
+    -->
+    <div class="info">
+        <p class="info">
+        Web Design and Data Elaboration by
+        <a href="http://eidogram.github.com">eidogram</a> |
+        All rights reserved.
+        </p>
+    </div>
+    </footer>
+</body>
+</html>
