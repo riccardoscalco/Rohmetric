@@ -231,7 +231,7 @@ svg.call(zoom)*/
     var previous_countries = [];
 
     $(document).ready(function(){
-     $.getJSON('/json/bridgeVpjGsVtEE.json', function(data) {
+     $.getJSON('./json/bridgeVpjGsVtEE.json', function(data) {
       $.each(data, function(key, val) {
         items.push(val);
       }); 
